@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="nl">
+	<head>
+
+		<meta charSet="utf-8">
+
+		<title>{{ page.title | default: 'Home' }} – {{ site.title }}</title>
+		<meta property="og:title" content="{{ page.title | default: 'Home' }} – {{ site.title }}">
+		<meta name="twitter:title" content="{{ page.title | default: 'Home' }} – {{ site.title }}">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="keywords" content="{{site.keywords}}">
+
+		<meta name="description" content="{{ page.excerpt | default: site.description }}">
+		<meta property="og:description" content="{{ page.excerpt | default: site.description }}">
+		<meta name="twitter:description" content="{{ page.excerpt | default: site.description }}">
+
+		<meta name="theme-color" content="{{site.themecolor}}">
+		<meta name="robots" content="index,follow">
+
+		<meta property="og:type" content="website">
+		<meta property="og:image:type" content="image/png">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="628">
+		<meta property="og:image" content="{{site.url}}/og-img.png">
+		<meta property="og:image:secure_url" content="{{site.url}}/og-img.png">
+		<meta property="og:url" content="{{site.url}}">
+
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:image" content="{{site.url}}/og-img.png">
+
+		<link rel="icon" href="/favicon.ico">
+		<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+		<link rel="apple-touch-icon" href="/apple.png">
+		<link rel="manifest" href="/manifest.webmanifest">
+
+		<link rel="preload" href="/fonts/Inter.var.woff2" as="font" type="font/woff2" crossorigin>
+		<link rel="stylesheet" href="/static/style.css?{{ site.time }}">
+
+	</head>
+	<body>
+
+

@@ -1,0 +1,19 @@
+<header class="main {% if page.url == "/" %}home{% endif %}">
+	<a href="/" class="logo">
+		<span class="icon">Home</span>
+		{% if page.url != "/" %}
+			<span class="title">{{site.title}}</span>
+		{% endif %}
+	</a>
+	<div class="spacer"></div>
+	<nav>
+		<ul class="menu">
+			<li>
+				<a href="/faq/">FAQ</a>
+			</li>
+			<li>
+				<a href="/over/">Over</a>	
+			</li>
+		</ul>
+	</nav>
+</header>

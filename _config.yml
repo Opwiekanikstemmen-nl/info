@@ -4,6 +4,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: "https://opwiekanikstemmen.nl"
 github_username: Opwiekanikstemmen-nl
+themecolor: "#fee1c2"
+keywords: "verkiezingen, tweedekamer, politiek, keuze, kieswijzer, advies, stemmen, kiezer"
 
 markdown: kramdown
 

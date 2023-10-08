@@ -1,0 +1,35 @@
+{
+  "name": "owkis-info-build",
+  "version": "0.0.1",
+  "description": "Build script for Op Wie Kan Ik Stemmen info site",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "ansi-colors": "*",
+    "browser-sync": "*",
+    "fancy-log": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-cli": "*",
+    "gulp-plumber": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "*",
+    "gulp-sourcemaps": "*",
+    "sass": "*"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version",
+      "last 1 ie version"
+    ]
+  },
+  "scripts": {
+    "test": "gulp build"
+  }
+}

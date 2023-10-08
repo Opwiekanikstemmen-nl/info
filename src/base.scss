@@ -1,0 +1,269 @@
+@font-face {
+	font-family: 'Inter';
+	font-weight: 400 800;
+	font-display: swap;
+	font-style: oblique 0deg 10deg;
+	src: url("/fonts/Inter.var.woff2?v=3.19") format("woff2");
+}
+
+html,
+body {
+	background: rgb(var(--color));
+	color: rgb(var(--foreground));
+	font-family: 'Inter', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+		Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+	font-size: clamp(1em, 1.5vw, 1.15em);
+	margin: 0;
+	padding: 0;
+
+	--background: 255, 255, 255;
+	--foreground: 0, 0, 0;
+	--color: 254, 225, 194;
+
+	@media (prefers-color-scheme: dark) {
+		--background: 0, 0, 0;
+		--foreground: 196, 156, 114;
+		--color: 20, 20, 20;
+	}
+}
+
+* {
+	box-sizing: border-box;
+}
+
+a {
+	color: rgb(var(--foreground));
+
+	&:visited {
+		color: rgba(var(--foreground), .8);
+	}
+
+	&[href^="https://"]::after {
+		content: " ↗";
+	}
+}
+
+.container {
+  --base-padding: max(6.5vw, 1.5em);
+
+  @media (min-width: 1920px) {
+    --base-padding: 10vw;
+  }
+}
+
+header.main {
+  align-items: center;
+  display: flex;
+  flex-flow: row;
+  padding: 4.5vw var(--base-padding) 0;
+  width: 100%;
+
+	&.home {
+		padding-top: var(--base-padding);
+	}
+}
+
+.logo {
+	display: flex;
+	text-decoration: none;
+}
+
+.icon {
+	align-self: center;
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  max-height: 3em;
+  max-width: 3em;
+  min-height: 1em;
+  min-width: 1em;
+  position: relative;
+  width: 100%;
+
+  &::after {
+    background: rgb(var(--background));
+    border-radius: 50%;
+    content: "";
+    padding-bottom: calc((100% / 3) * 2);
+    position: absolute;
+    width: calc((100% / 3) * 2);
+  }
+
+  &::before {
+    background: rgb(var(--foreground));
+    content: "";
+    padding-bottom: 100%;
+    position: absolute;
+    width: 100%;
+  }
+}
+
+.title {
+  color: rgb(var(--foreground));
+	display: block;
+  font-size: 1.1em;
+  line-height: 1;
+  margin: .1em .75em;
+  text-decoration: none;
+  width: 7ch;
+
+  @media (min-width: 600px) {
+    font-size: 1.375em;
+    width: 10ch;
+  }
+}
+
+.spacer {
+  flex-grow: 1;
+}
+
+.menu {
+	display: flex;
+	margin: 0;
+	padding: 0;
+
+	li {
+		align-self: center;
+		line-height: 1;
+		list-style: none;
+		margin: 0;
+		padding: 1em .75em 1em 0;
+	
+		&:not(:last-of-type) {
+			margin-right: 1em;
+		}
+	}
+}
+
+.tagline {
+  font-size: 1.45em;
+  margin: 1.5em 0;
+  max-width: 44ch;
+}
+
+.default {
+	box-sizing: content-box;
+	line-height: 1.5;
+	max-width: 62.5ch;
+	padding: calc(var(--base-padding) / 4) var(--base-padding);
+
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		font-weight: 800;
+		line-height: 1.2;
+		margin-top: 1.5em;
+	}
+
+	h1 {
+		font-size: min(12.5vw, 4em);
+	}
+}
+
+.home {
+	padding: 0 var(--base-padding);
+
+	@media (min-width: 1200px) {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+  }
+
+	h1 {
+		font-weight: 800;
+		flex-grow: 0;
+		font-size: min(15vw, 7em);
+		line-height: 1;
+		margin: 6rem 0 1.5rem;
+		width: 7.5ch;
+	
+		@media (min-width: 1200px) {
+			margin-right: 1em;
+			margin-bottom: .2rem;
+		}
+	}
+}
+
+.cta {
+  background: rgb(var(--background));
+  border-radius: .5em;
+  box-shadow: 0px 5px 20px rgba(var(--foreground), 0.15);
+  color: rgb(var(--foreground));
+	display: block;
+  font-family: inherit;
+  margin-bottom: 1em;
+  transition: all 100ms ease-out;
+	text-decoration: none;
+
+	&::after {
+		display: none;
+	}
+
+  &:hover,
+	&:focus {
+    box-shadow: 0px 5px 25px rgba(var(--foreground), 0.2);
+    text-decoration: underline;
+    transform: translateY(-.1em);
+  }
+
+  @media (min-width: 768px) {
+    padding: 1em;
+    margin-top: 2em;
+  }
+
+  &__text {
+    color: rgb(var(--foreground));
+    display: block;
+    padding: .5em 1em 1em;
+    margin: 0;
+    text-decoration: none;
+
+    &--large {
+      font-size: 1.5em;
+      font-weight: 800;
+      padding: .5em .66em;
+    }
+
+    &:not(:first-child) {
+      padding-top: 0;
+    }
+  }
+
+  &__arrow {
+    float: right;
+  }
+}
+
+.page {
+	padding: calc(var(--base-padding) / 2) var(--base-padding) calc(var(--base-padding) / 2);
+}
+
+footer.main {
+	background: rgb(var(--background));
+	display: flex;
+	flex-flow: row wrap;
+	margin-top: var(--base-padding);
+	padding: 3em var(--base-padding);
+
+	section {
+		flex-grow: 1;
+		flex-shrink: 0;
+		max-width: 20em;
+		width: 12.5em;
+	}
+
+	ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	li {
+		margin: 1.5em 0;
+	}
+}
