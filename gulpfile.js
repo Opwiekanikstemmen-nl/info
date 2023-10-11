@@ -27,7 +27,7 @@ gulp.task('sass', function() {
         }))
         .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
         .pipe(prefix())
-        .pipe(gulp.dest(dest));
+        .pipe(gulp.dest('_site/' + dest));
 });
 
 // Process & sourcemap SCSS
