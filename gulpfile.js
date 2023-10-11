@@ -27,6 +27,7 @@ gulp.task('sass', function() {
         }))
         .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
         .pipe(prefix())
+        .pipe(rename('style.css'))
         .pipe(gulp.dest('_site/' + dest));
 });
 
