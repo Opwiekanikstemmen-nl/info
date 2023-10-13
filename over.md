@@ -4,7 +4,7 @@ layout: default
 
 # Over
 
-**Op wie ga jij stemmen tijdens de Tweede Kamerverkiezingen? Je kunt uit honderden kandidaten kiezen van 29 partijen, maar je hebt maar één stem voor de kandidaat die jou mag gaan vertegenwoordigen. Er is één kandidaat die beter bij jou past. Er is één kandidaat die jouw stem het beste kan vertegenwoordigen in de Tweede Kamer. Met opwiekanikstemmen.nl kies je in vier clicks _jouw_ kandidaat.**
+**Op wie ga jij stemmen tijdens de Tweede Kamerverkiezingen? Je kunt uit honderden kandidaten kiezen van 26 partijen, maar je hebt maar één stem voor de kandidaat die jou mag gaan vertegenwoordigen. Er is één kandidaat die beter bij jou past. Er is één kandidaat die jouw stem het beste kan vertegenwoordigen in de Tweede Kamer. Met opwiekanikstemmen.nl kies je in vier clicks _jouw_ kandidaat.**
 
 ## Wat is opwiekanikstemmen.nl?
 
