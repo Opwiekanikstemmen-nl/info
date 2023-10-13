@@ -16,20 +16,20 @@ De privacyverklaring kan gewijzigd worden na bijvoorbeeld een wetswijziging. Als
 
 Ook zullen eerdere versies van deze privacyverklaring via de website beschikbaar worden gesteld. Dan kan jij zelf zien wat er veranderd is.
 
-Dit is versie 0.2 van de privacyverklaring van opwiekanikstemmen.nl. Vorige versies vind je hieronder als .pdf:
+Dit is versie 0.3 van de privacyverklaring van opwiekanikstemmen.nl. Vorige versies waren:
 
+- V0.3 - 13/10/2023 - Een paar typ- en formuleringsfouten zijn aangepast.
 - V0.2 - 03/03/2021 - Een paar typ- en formuleringsfouten zijn aangepast.
-    
 - V0.1 - 03/03/2021 - De eerste versie.
     
 
 ## 2. Wie zijn wij?
 
-Opwiekanikstemmen.nl is een website die kiezers informeert over de kandidaten voor de Tweede Kamerverkiezingen van 15 t/m 17 maart 2021. Op deze website vind je een overzicht van alle 1579 kandidaten, van alle 37 politieke partijen.
+Opwiekanikstemmen.nl is een website die kiezers informeert over de kandidaten voor verkiezingen.
 
 Ons doel met deze website is simpel: mensen informeren over de kandidaten voor de Tweede Kamerverkiezingen en hen de mogelijkheid geven om de kandidaten te filteren op een aantal kenmerken (bijvoorbeeld partij, woonplaats, geslacht, kieskring).
 
-'Wij' zijn een groep jonge politieke enthousiastelingen. Vanuit verschillende expertises (website ontwikkeling, dataverzameling, journalistiek) en met verschillende achtergronden werken wij zonder winstoogmerk aan opwiekanikstemmen.nl. Geen van de betrokkenen is verkiesbaar of actief voor een politiek partij.
+'Wij' zijn een groep jonge politieke enthousiastelingen. Vanuit verschillende expertises (website-ontwikkeling, dataverzameling, journalistiek) en met verschillende achtergronden werken wij zonder winstoogmerk aan opwiekanikstemmen.nl. Geen van de betrokkenen is verkiesbaar of actief voor een politieke partij.
 
 ## 3. Welke gegevens verzamelen wij over jou?
 
@@ -43,7 +43,7 @@ Cookies zijn kleine bestanden met data die een aanbieder van een website plaatst
 
 Wij gebruiken en plaatsen geen cookies.
 
-Deze hebben we op dit moment niet nodig om de website te laten functioneren. In de toekomst kunnen we besluiten cookies toe te toevoegen. Dit zullen we vooraf duidelijk communiceren.
+Deze hebben we op dit moment niet nodig om de website te laten functioneren. In de toekomst kunnen we besluiten cookies toe te voegen. Dit zullen we vooraf duidelijk communiceren.
 
 Wij streven ernaar geen persoonsgegevens te verzamelen van de gebruikers van opwiekanikstemmen.nl.
 
