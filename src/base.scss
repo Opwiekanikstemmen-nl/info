@@ -35,7 +35,7 @@ a {
 	color: rgb(var(--foreground));
 
 	&:visited {
-		color: rgba(var(--foreground), .8);
+		text-decoration-color: purple;
 	}
 
 	&[href^="https://"]::after {
