@@ -44,19 +44,19 @@ a {
 }
 
 .container {
-  --base-padding: max(6.5vw, 1.5em);
+	--base-padding: max(6.5vw, 1.5em);
 
-  @media (min-width: 1920px) {
-    --base-padding: 10vw;
-  }
+	@media (min-width: 1920px) {
+	--base-padding: 10vw;
+	}
 }
 
 header.main {
-  align-items: center;
-  display: flex;
-  flex-flow: row;
-  padding: 4.5vw var(--base-padding) 0;
-  width: 100%;
+	align-items: center;
+	display: flex;
+	flex-flow: row;
+	padding: 4.5vw var(--base-padding) 0;
+	width: 100%;
 
 	&.home {
 		padding-top: var(--base-padding);
@@ -70,53 +70,53 @@ header.main {
 
 .icon {
 	align-self: center;
-  align-items: center;
-  cursor: pointer;
-  display: flex;
-  height: 100%;
-  justify-content: center;
-  max-height: 3em;
-  max-width: 3em;
-  min-height: 1em;
-  min-width: 1em;
-  position: relative;
-  width: 100%;
+	align-items: center;
+	cursor: pointer;
+	display: flex;
+	height: 100%;
+	justify-content: center;
+	max-height: 3em;
+	max-width: 3em;
+	min-height: 1em;
+	min-width: 1em;
+	position: relative;
+	width: 100%;
 
-  &::after {
-    background: rgb(var(--background));
-    border-radius: 50%;
-    content: "";
-    padding-bottom: calc((100% / 3) * 2);
-    position: absolute;
-    width: calc((100% / 3) * 2);
-  }
+	&::after {
+	background: rgb(var(--background));
+	border-radius: 50%;
+	content: "";
+	padding-bottom: calc((100% / 3) * 2);
+	position: absolute;
+	width: calc((100% / 3) * 2);
+	}
 
-  &::before {
-    background: rgb(var(--foreground));
-    content: "";
-    padding-bottom: 100%;
-    position: absolute;
-    width: 100%;
-  }
+	&::before {
+	background: rgb(var(--foreground));
+	content: "";
+	padding-bottom: 100%;
+	position: absolute;
+	width: 100%;
+	}
 }
 
 .title {
-  color: rgb(var(--foreground));
+	color: rgb(var(--foreground));
 	display: block;
-  font-size: 1.1em;
-  line-height: 1;
-  margin: .1em .75em;
-  text-decoration: none;
-  width: 7ch;
+	font-size: 1.1em;
+	line-height: 1;
+	margin: .1em .75em;
+	text-decoration: none;
+	width: 7ch;
 
-  @media (min-width: 600px) {
-    font-size: 1.375em;
-    width: 10ch;
-  }
+	@media (min-width: 600px) {
+	font-size: 1.375em;
+	width: 10ch;
+	}
 }
 
 .spacer {
-  flex-grow: 1;
+	flex-grow: 1;
 }
 
 .menu {
@@ -138,9 +138,9 @@ header.main {
 }
 
 .tagline {
-  font-size: 1.45em;
-  margin: 1.5em 0;
-  max-width: 44ch;
+	font-size: 1.45em;
+	margin: 1.5em 0;
+	max-width: 44ch;
 }
 
 .default {
@@ -169,10 +169,10 @@ header.main {
 	padding: 0 var(--base-padding);
 
 	@media (min-width: 1200px) {
-    align-items: center;
-    display: flex;
-    justify-content: space-between;
-  }
+	align-items: center;
+	display: flex;
+	justify-content: space-between;
+	}
 
 	h1 {
 		font-weight: 800;
@@ -190,53 +190,53 @@ header.main {
 }
 
 .cta {
-  background: rgb(var(--background));
-  border-radius: .5em;
-  box-shadow: 0px 5px 20px rgba(var(--foreground), 0.15);
-  color: rgb(var(--foreground));
+	background: rgb(var(--background));
+	border-radius: .5em;
+	box-shadow: 0px 5px 20px rgba(var(--foreground), 0.15);
+	color: rgb(var(--foreground));
 	display: block;
-  font-family: inherit;
-  margin-bottom: 1em;
-  transition: all 100ms ease-out;
+	font-family: inherit;
+	margin-bottom: 1em;
+	transition: all 100ms ease-out;
 	text-decoration: none;
 
 	&::after {
 		display: none;
 	}
 
-  &:hover,
+	&:hover,
 	&:focus {
-    box-shadow: 0px 5px 25px rgba(var(--foreground), 0.2);
-    text-decoration: underline;
-    transform: translateY(-.1em);
-  }
+	box-shadow: 0px 5px 25px rgba(var(--foreground), 0.2);
+	text-decoration: underline;
+	transform: translateY(-.1em);
+	}
 
-  @media (min-width: 768px) {
-    padding: 1em;
-    margin-top: 2em;
-  }
+	@media (min-width: 768px) {
+	padding: 1em;
+	margin-top: 2em;
+	}
 
-  &__text {
-    color: rgb(var(--foreground));
-    display: block;
-    padding: .5em 1em 1em;
-    margin: 0;
-    text-decoration: none;
+	&__text {
+	color: rgb(var(--foreground));
+	display: block;
+	padding: .5em 1em 1em;
+	margin: 0;
+	text-decoration: none;
 
-    &--large {
-      font-size: 1.5em;
-      font-weight: 800;
-      padding: .5em .66em;
-    }
+	&--large {
+		font-size: 1.5em;
+		font-weight: 800;
+		padding: .5em .66em;
+	}
 
-    &:not(:first-child) {
-      padding-top: 0;
-    }
-  }
+	&:not(:first-child) {
+		padding-top: 0;
+	}
+	}
 
-  &__arrow {
-    float: right;
-  }
+	&__arrow {
+	float: right;
+	}
 }
 
 .page {
