@@ -216,21 +216,21 @@ header.main {
 	}
 
 	&__text {
-	color: rgb(var(--foreground));
-	display: block;
-	padding: .5em 1em 1em;
-	margin: 0;
-	text-decoration: none;
+		color: rgb(var(--foreground));
+		display: block;
+		padding: 1em;
+		margin: 0;
+		text-decoration: none;
 
-	&--large {
-		font-size: 1.5em;
-		font-weight: 800;
-		padding: .5em .66em;
-	}
+		&--large {
+			font-size: 1.5em;
+			font-weight: 800;
+			padding: .5em .66em;
+		}
 
-	&:not(:first-child) {
-		padding-top: 0;
-	}
+		&:not(:first-child) {
+			padding-top: 0;
+		}
 	}
 
 	&__arrow {

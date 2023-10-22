@@ -9,13 +9,16 @@ title: Home
 </section>
 
 <nav>
-	<a class="cta" href="https://tweedekamer2021.opwiekanikstemmen.nl">
+	<a class="cta" href="https://tweedekamer2023.opwiekanikstemmen.nl/kandidaten">
 		<span class="cta__text cta__text--large">
-			TK2021
+			Naar de lijst
 			<span class="cta__arrow" aria-hidden="true">
 				->
 			</span>
 		</span>
-		<span class="cta__text">Bekijk de kandidaten van toen</span>
+		<span class="cta__text">Bekijk de kandidaten voor de Tweede Kamerverkiezing in november</span>
+	</a>
+	<a class="cta" href="https://tweedekamer2021.opwiekanikstemmen.nl">
+		<span class="cta__text">Of bekijk de kandidaten van 2021</span>
 	</a>
 </nav>
