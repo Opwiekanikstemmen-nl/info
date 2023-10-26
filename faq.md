@@ -30,7 +30,7 @@ Als de nummer 1 van de partij jou het best vertegenwoordigt, dan is daar helemaa
 
 Dat klopt niet. Een stem op jouw kandidaat, is sowieso een stem op de partij van jouw keuze. Jouw stem gaat dus nooit 'verloren'. Sterker nog: met een stem op jouw kandidaat, vergroot je de kans dat jouw kandidaat de Kamer in kan met voorkeurstemmen.
 
-Voorkeursstemmen zijn een belangrijk onderdeel van de Nederlandse democratie. Hiermee maakt elke kandidaat op een partijlijst de kans om volksvertegenwoordiger te worden! Ongeacht haar of zijn plek op de lijst. De partijen doen een voorstel voor een volgorde, maar jouw stem is bepalend voor wie er echt in de Kamer komen!
+Voorkeurstemmen zijn een belangrijk onderdeel van de Nederlandse democratie. Hiermee maakt elke kandidaat op een partijlijst de kans om volksvertegenwoordiger te worden! Ongeacht haar of zijn plek op de lijst. De partijen doen een voorstel voor een volgorde, maar jouw stem is bepalend voor wie er echt in de Kamer komen!
 
 ## Waarom is het goed als meer kandidaten met voorkeurstemmen worden gekozen?
 
