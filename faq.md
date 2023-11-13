@@ -40,7 +40,7 @@ Al onze kandidaten (en straks kamerleden) zullen daarom sneller en vaker in óns
 
 ## Waar komt jullie data vandaan?
 
-Wij gebruiken openbaar toegankelijke databronnen. Alle data vind je [hier](https://github.com/Opwiekanikstemmen-nl/data). We verwijzen je graag door naar websites zoals parlement.com, de officiële kandidatenlijst op kiesraad.nl, de websites van de politieke partijen, Wikipediapagina's en de sociale mediakanalen van de kandidaten. Maar ook andere websites die data hebben over op de kenmerken van kandidaten, zoals [Stemopeenvrouw.nl](https://stemopeenvrouw.com/) en [Kleurdekamer.nl](https://kleurdekamer.nl/). Kijk ook op onze [Partnerpagina](https://opwiekanikstemmen.nl/partners).
+Wij gebruiken openbaar toegankelijke databronnen. Alle data vind je [hier](https://github.com/Opwiekanikstemmen-nl/data). We verwijzen je graag door naar websites zoals parlement.com, de officiële kandidatenlijst op kiesraad.nl, de websites van de politieke partijen, Wikipediapagina's en de sociale mediakanalen van de kandidaten. Maar ook andere websites die data hebben over op de kenmerken van kandidaten, zoals [Stemopeenvrouw.nl](https://stemopeenvrouw.com/) en [Kleurdekamer.nl](https://kleurdekamer.nl/). Kijk ook op onze [Partnerpagina](https://tweedekamer2023.opwiekanikstemmen.nl/partners).
 
 Met al deze informatie kan je helemaal zelf kiezen op wie jij wilt stemmen.
 

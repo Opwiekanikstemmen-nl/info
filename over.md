@@ -28,7 +28,7 @@ Op opwiekanikstemmen.nl selecteer je een aantal eigenschappen die jij belangrijk
 
 Zo kies je bij deze verkiezingen jouw kandidaat.
 
-Start [hier](https://opwiekanikstemmen.nl/kandidaten).
+Start [hier](https://tweedekamer2023.opwiekanikstemmen.nl/).
 
 ## Waarom maken wij opwiekanikstemmen.nl?
 
