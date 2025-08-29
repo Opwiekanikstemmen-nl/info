@@ -1,18 +1,21 @@
 // Include gulp
-var gulp = require('gulp');
+import gulp from 'gulp';
 
 // Include plugins
-var log = require('fancy-log');
-var colors = require('ansi-colors');
+import log from 'fancy-log';
+import colors from 'ansi-colors';
 
-var plumber = require('gulp-plumber');
-var sass = require('gulp-sass')(require('sass'));
-var sourcemaps = require('gulp-sourcemaps');
-var prefix = require('gulp-autoprefixer');
-var rename = require('gulp-rename');
+import plumber from 'gulp-plumber';
+import * as sass from 'sass';
+import gulpSass from 'gulp-sass';
+const usingSass = gulpSass(sass);
+import sourcemaps from 'gulp-sourcemaps';
+import prefix from 'gulp-autoprefixer';
+import rename from 'gulp-rename';
 
 // Include browsersync
-var browserSync = require('browser-sync').create();
+import browserSyncImport from 'browser-sync'
+var browserSync = browserSyncImport.create();
 
 // Paths
 var src = 'src/';
@@ -25,7 +28,7 @@ gulp.task('sass', function() {
             log(colors.red(error.message));
             this.emit('end');
         }))
-        .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
+        .pipe(usingSass({outputStyle: 'compressed'}).on('error', usingSass.logError))
         .pipe(prefix())
         .pipe(rename('style.css'))
         .pipe(gulp.dest('_site/' + dest));
@@ -39,7 +42,7 @@ gulp.task('sassDev', function() {
             this.emit('end');
         }))
         .pipe(sourcemaps.init())
-        .pipe(sass().on('error', sass.logError))
+        .pipe(usingSass().on('error', usingSass.logError))
         .pipe(sourcemaps.write())
         .pipe(rename('style.css'))
         .pipe(gulp.dest(dest))
