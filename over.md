@@ -4,11 +4,11 @@ layout: default
 
 # Over
 
-**Op wie ga jij stemmen tijdens de Tweede Kamerverkiezingen? Je kunt uit honderden kandidaten kiezen van 26 partijen, maar je hebt maar één stem voor de kandidaat die jou mag gaan vertegenwoordigen. Er is één kandidaat die beter bij jou past. Er is één kandidaat die jouw stem het beste kan vertegenwoordigen in de Tweede Kamer. Met opwiekanikstemmen.nl kies je in vier clicks _jouw_ kandidaat.**
+**Op wie ga jij stemmen tijdens de Tweede Kamerverkiezingen? Je kunt uit honderden kandidaten kiezen van 27 partijen, maar je hebt maar één stem voor de kandidaat die jou mag gaan vertegenwoordigen. Er is één kandidaat die beter bij jou past. Er is één kandidaat die jouw stem het beste kan vertegenwoordigen in de Tweede Kamer. Met opwiekanikstemmen.nl kies je in vier clicks _jouw_ kandidaat.**
 
 ## Wat is opwiekanikstemmen.nl?
 
-Opwiekanikstemmen.nl beantwoordt één simpele vraag: op wie kan ik stemmen bij de komende Tweede Kamerverkiezingen van 22 november 2023?
+Opwiekanikstemmen.nl beantwoordt één simpele vraag: op wie kan ik stemmen bij de komende Tweede Kamerverkiezingen van 29 oktober 2025?
 
 Er doen deze verkiezingen honderden kandidaten mee. Daarom zijn honderden antwoorden op die vraag. Duizelig van de keuzestress? Wij ook.
 
@@ -16,7 +16,7 @@ Op opwiekanikstemmen.nl kies je in vier clicks jouw kandidaat. Eentje die beter 
 
 ## Hoe werkt opwiekanikstemmen.nl?
 
-Je kunt kiezen uit 1579 kandidaten van 37 partijen. Je hebt maar één stem voor één kandidaat die jou moet gaan vertegenwoordigen.
+Je kunt kiezen uit 1166 kandidaten van 27 partijen. Je hebt maar één stem voor één kandidaat die jou moet gaan vertegenwoordigen.
 
 Misschien heb je er al een voorkeur voor een partij, bijvoorbeeld nadat je [de Stemwijzer](https://stemwijzer.nl/) hebt ingevuld. Maar, op welke persoon wil je nou precies stemmen? Wie gaat jou vertegenwoordigen? Alweer de nummer 1 op de lijst?
 
@@ -28,7 +28,7 @@ Op opwiekanikstemmen.nl selecteer je een aantal eigenschappen die jij belangrijk
 
 Zo kies je bij deze verkiezingen jouw kandidaat.
 
-Start [hier](https://tweedekamer2023.opwiekanikstemmen.nl/).
+Start [hier](https://tweedekamer2025.opwiekanikstemmen.nl/).
 
 ## Waarom maken wij opwiekanikstemmen.nl?
 
@@ -41,11 +41,11 @@ Met opwiekanikstemmen.nl willen wij jou helpen met het maken van een makkelijker
 3. Het is nu een sterke Tweede Kamer. Of nooit. Het is 2023. De 21ste eeuw is al dik twintig jaar op weg, en we moeten er nog tachtig. Corona zet alles op z’n kop: de zorg, economie, reizen en veel meer. Er gaan veel dingen goed in Nederland, maar er zijn ook problemen: met wonen, klimaatverandering, migratie, bestaanszekerheid en veiligheid. Opwiekanikstemmen.nl heeft geen mening. Maar jij wel. Wij helpen jou om een kandidaat te vinden die jouw mening kan vertegenwoordigen: jouw kandidaat.
     
 
-Wat je ook doet of belangrijk vindt: [ga alsjeblieft stemmen op 22 november](https://www.rijksoverheid.nl/onderwerpen/verkiezingen/verkiezing-tweede-kamer-2021)!
+Wat je ook doet of belangrijk vindt: [ga alsjeblieft stemmen op 29 oktober](https://www.rijksoverheid.nl/onderwerpen/verkiezingen/)!
 
 ## Wie maken opwiekanikstemmen.nl?
 
-Een groepje politieke enthousiastelingen maakt deze website. Wij zijn Floris, Amrit, Lauren, Robert, Justin, Toon en Pim. Hier vind je later wat meer informatie over ons.
+Een groepje politieke enthousiastelingen maakt deze website. Wij zijn Floris, Amrit, Lauren, Robert, Justin, Anna, Toon en Pim. Hier vind je later wat meer informatie over ons.
 
 Wil je helpen om opwiekanikstemmen.nl beter te maken? We kunnen veel hulp gebruiken! Dus: Mail ons.
 
@@ -66,7 +66,5 @@ Heb je vragen, opmerkingen of complimentjes? Zo kun je ons bereiken:
 - Volg ons op Instagram: [instagram.com/opwiekanikstemmen](https://www.instagram.com/opwiekanikstemmen/)
     
 - Volg ons op Linkedin: [linkedin.com/company/opwiekanikstemmen](https://linkedin.com/company/opwiekanikstemmen)
-
-- Volg ons op X (Twitter): [twitter.com/dekandidaten](https://twitter.com/dekandidaten)
-    
+ 
 - Volg ons op Facebook: [facebook.com/opwiekanikstemmen](https://facebook.com/opwiekanikstemmen)
