@@ -10,7 +10,7 @@ layout: default
 
 Opwiekanikstemmen.nl beantwoordt één simpele vraag: op wie kan ik stemmen bij de komende Tweede Kamerverkiezingen van 29 oktober 2025?
 
-Er doen deze verkiezingen honderden kandidaten mee. Daarom zijn honderden antwoorden op die vraag. Duizelig van de keuzestress? Wij ook.
+Er doen deze verkiezingen honderden kandidaten mee. Daarom zijn er honderden antwoorden op die vraag. Duizelig van de keuzestress? Wij ook.
 
 Op opwiekanikstemmen.nl kies je in vier clicks jouw kandidaat. Eentje die beter bij jou past. Zo kies je deze verkiezingen jouw kandidaat. Simpel.
 
