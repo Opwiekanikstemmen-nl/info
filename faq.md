@@ -60,14 +60,11 @@ Niemand. We zijn een klein groepje politiek enthousiaste vrijwilligers, die het 
 
 Zeker, volg ons op:
 
+- Mastodon: mastodon.nl/@opwiekanikstemmen
+- Bluesky: bsky.app/profile/opwiekanikstemmen.bsky.social
 - Instagram: instagram.com/opwiekanikstemmen
-    
 - LinkedIn: linkedin.com/company/opwiekanikstemmen
-    
-- Twitter: twitter.com/dekandidaten
-    
-- Facebook:  
-    facebook/com/opwiekanikstemmen
+- Facebook: facebook.com/opwiekanikstemmen
     
 
 Heb je ideeën voor meer filters? Of meer data die we kunnen toevoegen? Mail ons!
